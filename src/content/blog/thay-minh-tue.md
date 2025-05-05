@@ -1,82 +1,221 @@
 ---
-title: 'Thầy Minh Tue: A Portrait'
-description: 'Exploring the life of Thầy Minh Tue'
+title: 'Thầy Minh Tuệ: A Portrait'
+description: 'Exploring the life of Thầy Minh Tuệ'
 pubDate: 'May 05 2025'
 heroImage: '/blog-placeholder-2.jpg'
 ---
 
-# Thầy Minh Tue: A Portrait
+# Thầy Minh Tuệ: A Portrait
 
-Vietnamese monk Thầy Minh Tue is a spiritual leader and teacher who has dedicated his life to the practice of Buddhism. He is known for his wisdom, compassion, and dedication to his faith.
+Vietnamese monk Thầy Minh Tuệ is a spiritual leader and teacher who has dedicated his life to the practice of Buddhism. He is known for his wisdom, compassion, and dedication to his faith.
 
 Post source: <https://web.facebook.com/profile.php?id=100013518285955> - Mac Van Trang's Facebook.
 
 The original of Vietnamese post at the last of this post.
 
-## Introduce Thầy Minh Tue
+## Introduce Thầy Minh Tuệ
 
-From Mac Van Trang's Facebook post:
+From Mac Van Trang's Facebook post, *words recorded from Thầy Minh Tuệ by Mạc Văn Trang*:
+
+---
+
+**I AM MINH TUỆ.**
 
 ```text
+My birth name is Lê Anh Tú.
+Now I take the name Minh Tuệ.
+I do not dare to bear the surname “Thích” (*)
+For I am not yet worthy, lest I dishonor
+the noble lineage of the Blessed One.
 
-I AM MINH TUE
-My birth name is Le Anh Tu Now I take the name Minh Tue I do not yet dare to bear the Thich surname When I am not worthy, fearing to dishonor the family name of the Buddha.
+(*) Thích is a Vietnamese surname,
+it means "Śākyas" - Buddha's clan -
+the founder of Buddhism.
 
-I am an ordinary citizen Learning to follow the Buddha's teachings I am not a master, not a monk Do not bow to me, bow to the Three Jewels.
+I am an ordinary citizen
+learning to follow the teachings of the Buddha.
+I am not a teacher, not a monk.
+Please, do not bow to me, bow to the Triple Gem(*)
 
-The clothes I wear are collected fabric, sewn together like garbage Practitioners wear brown robes, the color of earth Yellow robes are the color of ripened rice fields Worn by those who have attained Arahantship.
+(*) The Triple Gem is the Buddha, Dharma, and Sangha.
 
-I carry the core of a rice cooker To differentiate from the alms bowls of temple monks I have not yet reached that level So I make everything distinct from the monks.
+The robe I wear is sewn from discarded cloth,
+like a heap of refuse.
+A true practitioner wears brown, the color of earth.
+The saffron robe is the color of ripe rice fields(*)
+worn by those who have attained Arahantship(**)
 
-I eat once a day, drink water only once To reduce the craving for food and drink I sleep sitting to reduce the craving for sleep With patience over time it feels normal I do not accept money also to reduce greed.
+(*) The color of ripe rice fields is the color of
+successful.
+---
+(**) Arahantship (also spelled Arhatship) is a term
+in Buddhism referring to the state of having attained
+full enlightenment, as understood in the Theravāda
+tradition. An Arahant (or Arhat) is someone who has:
 
-I walk bareheaded, barefoot to build health I go everywhere to connect with life Testing Greed, Anger, Delusion, Pride, Doubt, Ego-clinging... Experiencing the marketplace of life to test true practice.
+- Fully awakened to the Four Noble Truths
+- Eliminated all defilements (greed, hatred, delusion)
+- Escaped the cycle of rebirth (samsara)
+- Realized Nirvana
+---
 
-For just over 6 years I have practiced walking Four times lengthwise, along our country. There are still three provinces I haven't fully walked, Wishing to place my bare feet on every path of the homeland.
+I carry the inner pot of a rice cooker,
+so it is different from the alms bowls used by the
+monks in temples.
+I have not reached that level of realization,
+thus all I do must not be mistaken with the monastics.
 
-Walking barefoot, I must always be aware Not to step on ants, caterpillars... I practice for myself. Only I truly know.
+I eat once a day, drink water only once,
+to reduce greed for food and drink.
+I sleep sitting upright to lessen attachment to sleep.
+With long endurance, it becomes normal.
+I do not accept money, to lessen craving.
 
-I sleep in abandoned houses, cemeteries. Not afraid of ghosts, but only of people! I don't recite the Great Compassion Mantra. I only ask permission for temporary shelter overnight And pray for spirits to be liberated...
+I walk barefoot and bareheaded to strengthen the body.
+I travel far and wide to encounter the world,
+to challenge Greed, Hatred, Delusion, Conceit, Doubt,
+and Self-clinging...
+To be tested amidst the marketplace of life, in the
+spirit of true practice.
 
-They call me a brazen beggar wandering around. Yes, I am the lowest person in the world. Must beg at street corners and markets, Just enough to sustain this body to practice.
+It has only been more than six years
+since I began walking.
+Four journeys the length of this land—
+Three provinces remain unvisited.
+I long to walk barefoot across every path of my
+homeland.
 
-They call me a dog, Yes, I am a dog eating once a day, Without Greed, Anger, or Delusion, harming no one. Such a dog is also good, Unlike dogs that eat anything, do anything.
+Walking barefoot, I must always be mindful,
+not to step on an ant or a worm...
+I practice for myself.
+Only I know my path.
 
-They call me a deer. Yes, a deer walking with the herd of deer, Cannot walk together with tigers and leopards. A wise herd of deer avoids falling into traps...
+I sleep in abandoned houses, in cemeteries.
+Not fearing ghosts or spirits—only humans.
+I do not chant the Great Compassion Mantra.
+I simply ask permission to stay the night
+and pray for departed souls to be liberated.
 
-If I practiced in seclusion, I would liberate only myself. I vow to attain supreme enlightenment To be able to save many people And repay the kindness of my parents.
+They say I am a crazy beggar wandering the streets.
+Yes, I am of the lowest class in the world—
+begging on street corners
+just enough to sustain this body in practice.
 
-I dare not preach the Dharma. I only share what I know And what I do not yet know. I simply repeat in simple terms the Buddha's teachings.
+They call me a dog.
+Yes, I am a dog—
+a dog that eats once a day,
+free from Greed, Hatred, Delusion, and harms no one.
+Such a dog is good,
+unlike others who eat everything and do anything.
 
-My only idol is the Buddha. If I find someone better, I will follow them. I have no worldly idols Because I am a practitioner.
+They call me a deer.
+Yes, I am a deer walking among the deer,
+not with tigers and leopards.
+The wise deer know how to avoid the traps...
 
-I absolutely trust only the Buddha's words. I vow to walk the path He walked to Enlightenment. Even in death, I will not waver from this aspiration. Whatever hardship, I will overcome.
+If I practiced in seclusion, I might only free myself.
+I vow to attain Supreme Perfect Enlightenment,
+to guide many others,
+to repay the kindness of my parents.
 
-Worldly people consider beautiful wives, smart children, cars, houses... as happiness. Practitioners like me, without money, without anything, Complete liberation is happiness.
+I dare not preach the Dharma(*).
+I only share what little I understand,
+and what I do not yet understand.
+I simply echo the Buddha’s words in simplicity.
 
-I consider all people as my parents, siblings. All people are equal. I do not judge anyone. Everyone has the freedom to do what they find happiness in, as long as they don't break the law.
+(*) Buddha’s teachings are the simple meaning of Dharma.
 
-They film, record, say whatever is their right. I don't mind. If signing autographs or taking photos makes people happy, Then I am always joyful.
+I have only one idol—The Buddha.
+If I find someone greater, I shall follow.
+I have no worldly idols,
+for I walk the renunciant’s path.
 
-Those who don't believe, who curse me, Please don't meet me, they will be upset. I always wish them happiness. Only I need to believe in myself.
+I place complete trust in the Buddha’s words.
+I vow to walk the very path He walked to Enlightenment.
+Even in death, I will not stray from this vow.
+Whatever hardships may come, I will overcome them.
 
-Enemies are those who do evil. I do good, avoid evil, will never aid enemies. I only know to protect myself through Precepts, Dharma. No confusion, fear, or worry... I don't handle others, only handle myself.
+The world sees beautiful wives, bright children,
+cars, mansions... as happiness.
+A practitioner like me—with no wealth, with nothing
+finds perfect freedom to be true happiness.
 
-Someone asked for my organs. Yes, I am ready! Just give me ten days to cleanse my body Then whoever wants to take whatever, take it!
+I see all people as parents, as siblings.
+Everyone is equal.
+I judge no one.
+Everyone is free to pursue what brings them happiness,
+so long as it violates no law.
 
-I practice according to the Buddha's teachings, No Greed, Anger, or Delusion, no Killing, Stealing, Sexual misconduct, no alcohol, no lying... They say I'm a fake practitioner, I don't understand, what then is genuine practice?
+They film, they record, they say what they will—
+That is their right.
+If giving an autograph or taking a photo brings joy
+to others,
+then I gladly oblige.
 
-I have traveled through Laos, Thailand, Malaysia, Indonesia, Singapore, Sri Lanka. Every country is beautiful Everywhere Buddhists are good in their own way. I receive blessings, joyfully creating connections.
+Those who disbelieve or insult me—
+Please, do not meet me; it will trouble your heart.
+I always wish them happiness.
+It is enough that I believe in myself.
 
-Arriving at Bodh Gaya, the Buddha's land. I felt truly happy. Because even cows are free to move about, People, whoever wants to practice however they wish, can do so.
+The wicked are those who do evil.
+I practice good, avoid evil,
+and will never assist the wicked.
+I only protect myself through Precepts and the True
+Dharma.
+No confusion, no fear, no worry...
+I do not judge others, only examine myself.
 
-I will say once more for all to know: I am not a monk, not a person of any religious organization. Not part of any group or organization. Not a master. Not inviting anyone. Not turning anyone away. Not related to family or relatives. Those with affinity come together, when affinity ends, they part. I am just a Vietnamese citizen studying the Buddha's teachings. Wherever I am not driven away, I go there to practice. I want to be free to walk across the entire planet Until death!
+Someone once asked for my organs.
+Yes, I am willing.
+Just give me ten days to purify my body,
+then take whatever is needed.
+
+I practice as the Buddha taught:
+No Greed, Hatred, Delusion.
+No Killing, Stealing, Sexual Misconduct, Intoxicants,
+or False Speech...
+They say I fake my practice.
+I do not understand—what is true practice?
+
+I have walked through Laos, Thailand, Malaysia,
+Indonesia, Singapore, and Sri Lanka.
+Every land is beautiful.
+Every Buddhist I’ve met is good in their own way.
+I receive their blessings and joyfully sow wholesome
+seeds.
+
+Arriving at Bodh Gaya—the land of the Buddha—
+I felt deep happiness.
+Even the cows roam freely.
+People practice as they are called.
+
+Let me say once more, for all to know:
+I am not a monk, not part of any sangha.
+I belong to no group, no institution.
+I am not a master.
+I do not invite anyone.
+I do not reject anyone.
+I am not connected to my family or kin.
+Those with affinity will meet;
+when the affinity ends, they part.
+I am simply a Vietnamese citizen practicing the
+Buddha’s path.
+Wherever I am not driven away,
+there I stay to practice.
+I wish to walk freely across this entire planet—
+until death.
 ```
+
+**April 29, 2025**
+*Words recorded by Mạc Văn Trang*
+
+---
 
 From Mac Van Trang's Facebook post's last word:
 
-> Oh, Minh Tue! Minh Tue! Only Minh Tue... has survived until today!
-> April 29, 2025 Mac Van Trang recording the words of Minh Tue.
+>Oh, Minh Tuệ! Minh Tuệ!
+>Only Minh Tuệ…
+>has endured until this very day!
 
 ## The original Vietnamese post
 
