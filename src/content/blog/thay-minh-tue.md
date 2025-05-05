@@ -9,6 +9,8 @@ heroImage: '/blog-placeholder-2.jpg'
 
 Vietnamese monk Thầy Minh Tuệ is a spiritual leader and teacher who has dedicated his life to the practice of Buddhism. He is known for his wisdom, compassion, and dedication to his faith.
 
+![Minh Tuệ](/thay_minh_tue_2024_11_2.jpg)
+
 Post source: <https://web.facebook.com/profile.php?id=100013518285955> - Mac Van Trang's Facebook.
 
 The original of Vietnamese post at the last of this post.
@@ -27,27 +29,34 @@ Now I take the name Minh Tuệ.
 I do not dare to bear the surname “Thích” (*)
 For I am not yet worthy, lest I dishonor
 the noble lineage of the Blessed One.
+```
 
 (*) Thích is a Vietnamese surname,
 it means "Śākyas" - Buddha's clan -
 the founder of Buddhism.
 
+```text
 I am an ordinary citizen
 learning to follow the teachings of the Buddha.
 I am not a teacher, not a monk.
 Please, do not bow to me, bow to the Triple Gem(*)
+```
 
 (*) The Triple Gem is the Buddha, Dharma, and Sangha.
 
+```text
 The robe I wear is sewn from discarded cloth,
 like a heap of refuse.
 A true practitioner wears brown, the color of earth.
 The saffron robe is the color of ripe rice fields(*)
 worn by those who have attained Arahantship(**)
+```
 
 (*) The color of ripe rice fields is the color of
 successful.
+
 ---
+
 (**) Arahantship (also spelled Arhatship) is a term
 in Buddhism referring to the state of having attained
 full enlightenment, as understood in the Theravāda
@@ -57,8 +66,10 @@ tradition. An Arahant (or Arhat) is someone who has:
 - Eliminated all defilements (greed, hatred, delusion)
 - Escaped the cycle of rebirth (samsara)
 - Realized Nirvana
+
 ---
 
+```text
 I carry the inner pot of a rice cooker,
 so it is different from the alms bowls used by the
 monks in temples.
@@ -70,7 +81,9 @@ to reduce greed for food and drink.
 I sleep sitting upright to lessen attachment to sleep.
 With long endurance, it becomes normal.
 I do not accept money, to lessen craving.
+```
 
+```text
 I walk barefoot and bareheaded to strengthen the body.
 I travel far and wide to encounter the world,
 to challenge Greed, Hatred, Delusion, Conceit, Doubt,
@@ -100,7 +113,9 @@ They say I am a crazy beggar wandering the streets.
 Yes, I am of the lowest class in the world—
 begging on street corners
 just enough to sustain this body in practice.
+```
 
+```text
 They call me a dog.
 Yes, I am a dog—
 a dog that eats once a day,
@@ -122,9 +137,11 @@ I dare not preach the Dharma(*).
 I only share what little I understand,
 and what I do not yet understand.
 I simply echo the Buddha’s words in simplicity.
+```
 
 (*) Buddha’s teachings are the simple meaning of Dharma.
 
+```text
 I have only one idol—The Buddha.
 If I find someone greater, I shall follow.
 I have no worldly idols,
@@ -139,7 +156,9 @@ The world sees beautiful wives, bright children,
 cars, mansions... as happiness.
 A practitioner like me—with no wealth, with nothing
 finds perfect freedom to be true happiness.
+```
 
+```text
 I see all people as parents, as siblings.
 Everyone is equal.
 I judge no one.
@@ -156,7 +175,9 @@ Those who disbelieve or insult me—
 Please, do not meet me; it will trouble your heart.
 I always wish them happiness.
 It is enough that I believe in myself.
+```
 
+```text
 The wicked are those who do evil.
 I practice good, avoid evil,
 and will never assist the wicked.
@@ -169,7 +190,9 @@ Someone once asked for my organs.
 Yes, I am willing.
 Just give me ten days to purify my body,
 then take whatever is needed.
+```
 
+```text
 I practice as the Buddha taught:
 No Greed, Hatred, Delusion.
 No Killing, Stealing, Sexual Misconduct, Intoxicants,
@@ -188,7 +211,9 @@ Arriving at Bodh Gaya—the land of the Buddha—
 I felt deep happiness.
 Even the cows roam freely.
 People practice as they are called.
+```
 
+```text
 Let me say once more, for all to know:
 I am not a monk, not part of any sangha.
 I belong to no group, no institution.
