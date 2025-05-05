@@ -11,6 +11,8 @@ Vietnamese monk Thầy Minh Tuệ is a spiritual leader and teacher who has dedi
 
 ![Minh Tuệ](/thay_minh_tue_2024_11_2.jpg)
 
+Picture source: unknown. Saved from Facebook post.
+
 Post source: <https://web.facebook.com/profile.php?id=100013518285955> - Mac Van Trang's Facebook.
 
 The original of Vietnamese post at the last of this post.
@@ -90,25 +92,33 @@ to challenge Greed, Hatred, Delusion, Conceit, Doubt,
 and Self-clinging...
 To be tested amidst the marketplace of life, in the
 spirit of true practice.
+```
 
+```text
 It has only been more than six years
 since I began walking.
 Four journeys the length of this land—
 Three provinces remain unvisited.
 I long to walk barefoot across every path of my
 homeland.
+```
 
+```text
 Walking barefoot, I must always be mindful,
 not to step on an ant or a worm...
 I practice for myself.
 Only I know my path.
+```
 
+```text
 I sleep in abandoned houses, in cemeteries.
 Not fearing ghosts or spirits—only humans.
 I do not chant the Great Compassion Mantra.
 I simply ask permission to stay the night
 and pray for departed souls to be liberated.
+```
 
+```text
 They say I am a crazy beggar wandering the streets.
 Yes, I am of the lowest class in the world—
 begging on street corners
@@ -122,7 +132,9 @@ a dog that eats once a day,
 free from Greed, Hatred, Delusion, and harms no one.
 Such a dog is good,
 unlike others who eat everything and do anything.
+```
 
+```text
 They call me a deer.
 Yes, I am a deer walking among the deer,
 not with tigers and leopards.
@@ -132,7 +144,9 @@ If I practiced in seclusion, I might only free myself.
 I vow to attain Supreme Perfect Enlightenment,
 to guide many others,
 to repay the kindness of my parents.
+```
 
+```text
 I dare not preach the Dharma(*).
 I only share what little I understand,
 and what I do not yet understand.
@@ -151,7 +165,9 @@ I place complete trust in the Buddha’s words.
 I vow to walk the very path He walked to Enlightenment.
 Even in death, I will not stray from this vow.
 Whatever hardships may come, I will overcome them.
+```
 
+```text
 The world sees beautiful wives, bright children,
 cars, mansions... as happiness.
 A practitioner like me—with no wealth, with nothing
@@ -170,7 +186,9 @@ That is their right.
 If giving an autograph or taking a photo brings joy
 to others,
 then I gladly oblige.
+```
 
+```text
 Those who disbelieve or insult me—
 Please, do not meet me; it will trouble your heart.
 I always wish them happiness.

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://loclv.netlify.app/sitemap-index.xml
