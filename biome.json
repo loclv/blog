@@ -24,13 +24,7 @@
   },
   "javascript": {
     "formatter": {
-      "quoteStyle": "single",
-      "indentStyle": "tab"
-    }
-  },
-  "css": {
-    "formatter": {
-      "indentStyle": "tab"
+      "quoteStyle": "single"
     }
   }
 }
