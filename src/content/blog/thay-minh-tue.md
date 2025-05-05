@@ -1,13 +1,13 @@
 ---
 title: 'Thầy Minh Tuệ: A Portrait'
-description: 'Exploring the life of Thầy Minh Tuệ'
+description: 'Exploring the life of Thầy Minh Tuệ, a Vietnamese spiritual leader and teacher who has dedicated his life to the practice of Buddhism. He is known for his wisdom, compassion, and dedication to his faith.'
 pubDate: 'May 05 2025'
 heroImage: '/blog-placeholder-2.jpg'
 ---
 
 # Thầy Minh Tuệ: A Portrait
 
-Vietnamese monk Thầy Minh Tuệ is a spiritual leader and teacher who has dedicated his life to the practice of Buddhism. He is known for his wisdom, compassion, and dedication to his faith.
+Vietnamese Thầy Minh Tuệ is a spiritual leader and teacher who has dedicated his life to the practice of Buddhism. He is known for his wisdom, compassion, and dedication to his faith.
 
 ![Minh Tuệ](/thay_minh_tue_2024_11_2.jpg)
 
