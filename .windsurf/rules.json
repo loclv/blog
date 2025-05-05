@@ -1,0 +1,58 @@
+{
+  "rules": [
+    {
+      "name": "cascade-thinking-optimization",
+      "description": "Optimize Cascade AI thinking process for improved reasoning and code analysis",
+      "enabled": true,
+      "patterns": ["**/*.{js,ts,jsx,tsx,json,md,css,scss,html}"],
+      "settings": {
+        "thinking": {
+          "maxDepth": 3,
+          "prioritizeContext": true,
+          "codeAnalysisFirst": true,
+          "reduceVerbosity": true,
+          "focusOnUserIntent": true,
+          "structuredReasoning": true,
+          "hierarchicalPlanning": true
+        },
+        "performance": {
+          "cacheDuration": 3600,
+          "parallelProcessing": true,
+          "incrementalAnalysis": true,
+          "memoryCaching": true,
+          "optimizeToolCalls": true
+        },
+        "codeAnalysis": {
+          "semanticUnderstanding": true,
+          "contextAwareCompletion": true,
+          "dependencyAwareness": true,
+          "patternRecognition": true,
+          "codeQualityInsights": true
+        },
+        "communication": {
+          "conciseness": {
+            "level": "high",
+            "preserveAccuracy": true
+          },
+          "progressiveDisclosure": true,
+          "prioritizeActionableInsights": true
+        }
+      }
+    },
+    {
+      "name": "cascade-memory-optimization",
+      "description": "Optimize Cascade AI memory handling for improved context retention",
+      "enabled": true,
+      "patterns": ["**/*.*"],
+      "settings": {
+        "memory": {
+          "prioritizeRecentContext": true,
+          "semanticClustering": true,
+          "keyInsightRetention": true,
+          "compressionStrategy": "lossless",
+          "periodicReview": true
+        }
+      }
+    }
+  ]
+}

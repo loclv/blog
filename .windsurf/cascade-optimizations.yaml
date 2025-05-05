@@ -1,0 +1,144 @@
+# Windsurf Optimization Configuration
+# Comprehensive rules to optimize Cascade AI, Agent performance, and startup time
+
+version: "1.2"
+
+cascade:
+  thinking:
+    # Core thinking optimization settings
+    core:
+      maxDepth: 3                      # Maximum recursion depth for complex problem solving
+      structuredReasoning: true        # Use structured frameworks for reasoning
+      reduceVerbosity: true            # Minimize token usage in internal reasoning
+      parallelProcessing: true         # Enable parallel processing for independent tasks
+      
+    # Context handling preferences
+    context:
+      prioritizeRecentContext: true    # Give higher weight to most recent context
+      semanticClustering: true         # Group related information semantically
+      keyInsightRetention: true        # Retain critical insights even when pruning
+      contextWindowOptimization: true  # Optimize context window usage
+      memoryCompression: true          # Use compressed representation for long-term memory
+      
+    # Problem-solving approach
+    problemSolving:
+      planFirst: true                  # Create structured plans before implementation
+      progressiveRefinement: true      # Start general, then refine with specifics
+      exploreAlternatives: 2           # Consider top N alternative solutions
+      earlyTermination: true           # Stop analysis once sufficient confidence is reached
+      
+  # Code analysis optimizations
+  codeAnalysis:
+    analyzeBeforeModifying: true       # Understand code before changing it
+    semanticUnderstanding: true        # Focus on meaning, not just syntax
+    patternRecognition: true           # Identify common patterns in code
+    checkDependencies: true            # Analyze imports and dependencies first
+    incrementalParsing: true           # Parse only changed portions of code
+    cacheAst: true                     # Cache abstract syntax trees
+    
+  # Performance settings
+  performance:
+    cacheResults: true                 # Cache repetitive analysis results
+    incrementalUpdates: true           # Use incremental updates for reasoning chains
+    optimizeToolCalls: true            # Minimize unnecessary tool calls
+    batchSimilarOperations: true       # Batch similar operations together
+    resourcePrioritization: true       # Prioritize resources for critical paths
+    asyncProcessing:
+      enabled: true                    # Enable asynchronous processing
+      maxConcurrent: 4                 # Maximum concurrent processes
+    
+  # Response generation
+  responses:
+    conciseness: high                  # Prioritize brevity in responses
+    focusOnUserIntent: true            # Keep responses focused on user's core need
+    progressiveDisclosure: true        # Reveal details progressively as needed
+    actionableFirst: true              # Prioritize actionable information first
+    streamingResponse: true            # Enable streaming responses for faster feedback
+
+agent:
+  initialization:
+    lazyLoading: true                  # Load components only when needed
+    preloadEssentials: true            # Preload essential components at startup
+    priorityOrder:                     # Order of component initialization
+      - core
+      - memory
+      - tools
+      - models
+    parallelInit: true                 # Initialize components in parallel when possible
+  
+  memory:
+    cacheStrategy: lru                 # Least Recently Used cache strategy
+    maxCacheSize: 512                  # Maximum cache size in MB
+    persistenceLevel: medium           # Level of data persistence
+    indexing:
+      enabled: true                    # Enable indexing for faster lookups
+      algorithm: "vector"              # Vector-based indexing for semantic search
+  
+  tooling:
+    precompileCommands: true           # Precompile frequently used commands
+    smartToolSelection: true           # Use heuristics to select optimal tools
+    toolChaining: true                 # Enable automatic chaining of tools
+    failoverStrategy: "graceful"       # Graceful degradation on tool failures
+  
+  networking:
+    connectionPooling: true            # Enable connection pooling
+    requestBatching: true              # Batch similar network requests
+    compressionLevel: high             # Use high compression for network transfers
+    cacheValidResponses: true          # Cache valid responses
+    retryStrategy:
+      maxRetries: 3                    # Maximum number of retries
+      backoffMultiplier: 1.5           # Exponential backoff multiplier
+
+startup:
+  optimization:
+    coldStart:
+      reducedFeatureSet: true          # Start with minimal feature set during cold start
+      progressiveEnhancement: true     # Progressively enhance features as resources allow
+      backgroundLoading: true          # Load non-critical components in background
+    
+    caching:
+      modelCaching: true               # Cache models between sessions
+      configCaching: true              # Cache configurations
+      statePersistence: true           # Persist state between sessions
+    
+    resourceManagement:
+      memoryLimit: 2048                # Memory limit in MB
+      prioritizeInteractivity: true    # Prioritize UI responsiveness over background tasks
+      adaptiveScaling: true            # Scale resource usage based on system capabilities
+    
+    precomputation:
+      enabled: true                    # Enable precomputation of common tasks
+      scope: "minimal"                 # Scope of precomputation: minimal, standard, or extensive
+
+  projectSpecific:
+    ignorePaths:                       # Paths to ignore during startup indexing
+      - "**/node_modules/**"
+      - "**/dist/**"
+      - "**/.git/**"
+      - "**/build/**"
+    prioritizePaths:                   # Paths to prioritize during startup indexing
+      - "**/src/components/**"
+      - "**/src/utils/**"
+      - "**/alpha-school/src/**"
+      - "**/alpha-student/src/**"
+    fileTypeWeights:                   # Weight different file types for indexing priority
+      tsx: 1.0
+      ts: 0.9
+      js: 0.8
+      css: 0.5
+      yaml: 0.4
+      json: 0.3
+
+# Monitoring and telemetry
+telemetry:
+  enabled: true
+  anonymized: true
+  performanceMetrics: true
+  adaptiveOptimization: true           # Automatically adjust settings based on performance data
+
+# Debug settings
+debug:
+  enabled: false
+  logLevel: info
+  traceThinking: false
+  performanceLogging: false

@@ -1,0 +1,147 @@
+{
+  "version": "1.2",
+  "cascade": {
+    "thinking": {
+      "core": {
+        "maxDepth": 3,
+        "structuredReasoning": true,
+        "reduceVerbosity": true,
+        "parallelProcessing": true
+      },
+      "context": {
+        "prioritizeRecentContext": true,
+        "semanticClustering": true,
+        "keyInsightRetention": true,
+        "contextWindowOptimization": true,
+        "memoryCompression": true
+      },
+      "problemSolving": {
+        "planFirst": true,
+        "progressiveRefinement": true,
+        "exploreAlternatives": 2,
+        "earlyTermination": true
+      }
+    },
+    "codeAnalysis": {
+      "analyzeBeforeModifying": true,
+      "semanticUnderstanding": true,
+      "patternRecognition": true,
+      "checkDependencies": true,
+      "incrementalParsing": true,
+      "cacheAst": true
+    },
+    "performance": {
+      "cacheResults": true,
+      "incrementalUpdates": true,
+      "optimizeToolCalls": true,
+      "batchSimilarOperations": true,
+      "resourcePrioritization": true,
+      "asyncProcessing": {
+        "enabled": true,
+        "maxConcurrent": 4
+      }
+    },
+    "responses": {
+      "conciseness": "high",
+      "focusOnUserIntent": true,
+      "progressiveDisclosure": true,
+      "actionableFirst": true,
+      "streamingResponse": true
+    }
+  },
+  "agent": {
+    "initialization": {
+      "lazyLoading": true,
+      "preloadEssentials": true,
+      "priorityOrder": [
+        "core",
+        "memory",
+        "tools",
+        "models"
+      ],
+      "parallelInit": true
+    },
+    "memory": {
+      "cacheStrategy": "lru",
+      "maxCacheSize": 512,
+      "persistenceLevel": "medium",
+      "indexing": {
+        "enabled": true,
+        "algorithm": "vector"
+      }
+    },
+    "tooling": {
+      "precompileCommands": true,
+      "smartToolSelection": true,
+      "toolChaining": true,
+      "failoverStrategy": "graceful"
+    },
+    "networking": {
+      "connectionPooling": true,
+      "requestBatching": true,
+      "compressionLevel": "high",
+      "cacheValidResponses": true,
+      "retryStrategy": {
+        "maxRetries": 3,
+        "backoffMultiplier": 1.5
+      }
+    }
+  },
+  "startup": {
+    "optimization": {
+      "coldStart": {
+        "reducedFeatureSet": true,
+        "progressiveEnhancement": true,
+        "backgroundLoading": true
+      },
+      "caching": {
+        "modelCaching": true,
+        "configCaching": true,
+        "statePersistence": true
+      },
+      "resourceManagement": {
+        "memoryLimit": 2048,
+        "prioritizeInteractivity": true,
+        "adaptiveScaling": true
+      },
+      "precomputation": {
+        "enabled": true,
+        "scope": "minimal"
+      }
+    },
+    "projectSpecific": {
+      "ignorePaths": [
+        "**/node_modules/**",
+        "**/dist/**",
+        "**/.git/**",
+        "**/build/**"
+      ],
+      "prioritizePaths": [
+        "**/src/components/**",
+        "**/src/utils/**",
+        "**/alpha-school/src/**",
+        "**/alpha-student/src/**"
+      ],
+      "fileTypeWeights": {
+        "tsx": 1.0,
+        "ts": 0.9,
+        "js": 0.8,
+        "css": 0.5,
+        "yaml": 0.4,
+        "json": 0.3
+      }
+    }
+  },
+  "telemetry": {
+    "enabled": true,
+    "anonymized": true,
+    "performanceMetrics": true,
+    "adaptiveOptimization": true
+  },
+  "debug": {
+    "enabled": false,
+    "logLevel": "info",
+    "traceThinking": false,
+    "performanceLogging": false
+  }
+}
