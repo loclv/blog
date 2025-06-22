@@ -10,4 +10,5 @@ MD033:
 
 # MD025/empty-line-between-blocks - Empty line between blocks
 MD025: false
+MD029: false
   

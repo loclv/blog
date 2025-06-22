@@ -2,14 +2,16 @@
 title: 'Thầy Minh Tuệ: A Portrait'
 description: 'Exploring the life of Thầy Minh Tuệ, a Vietnamese spiritual leader and teacher who has dedicated his life to the practice of Buddhism. He is known for his wisdom, compassion, and dedication to his faith.'
 pubDate: 'May 05 2025'
-heroImage: '/blog-placeholder-2.jpg'
+heroImage: '/thay-minh-tue-by-minh-y-2025-02-23.jpg'
 ---
 
 # Thầy Minh Tuệ: A Portrait
 
 Vietnamese Thầy Minh Tuệ is a spiritual leader and teacher who has dedicated his life to the practice of Buddhism. He is known for his wisdom, compassion, and dedication to his faith.
 
-![Minh Tuệ](/thay_minh_tue_2024_11_2.jpg)
+Thầy Minh Tuệ embodies [the ancient Thirteen Dhutanga](/blog/dhutanga) (Pali: dhutāṅga) practices—known in Vietnamese as 13 hạnh Đầu Đà set of austere spiritual disciplines upheld by ascetic monks in the Theravāda tradition. These practices are not compulsory, but they are observed by those who seek to deepen renunciation, humility, and detachment from worldly attachments.
+
+![Thầy Minh Tuệ](/thay_minh_tue_2024_11_2.jpg)
 
 Picture source: unknown. Saved from Facebook post.
 
@@ -18,6 +20,7 @@ Post source: <https://web.facebook.com/profile.php?id=100013518285955> - Mac Van
 The original of Vietnamese post at the last of this post.
 
 ## Introduce Thầy Minh Tuệ
+
 
 From Mac Van Trang's Facebook post, *words recorded from Thầy Minh Tuệ by Mạc Văn Trang*:
 
@@ -416,3 +419,5 @@ mới sống còn cho đến hôm nay!
 Mạc Văn Trang 
 ghi lời Minh Tuệ
 ```
+
+Picture source: <https://www.facebook.com/photo.php?fbid=3711695645640665&set=pb.100004007997487.-2207520000&type=3>.
