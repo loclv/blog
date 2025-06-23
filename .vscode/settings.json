@@ -1,0 +1,11 @@
+{
+	"editor.defaultFormatter": "biomejs.biome",
+	"[css]": {
+		"editor.formatOnSave": true,
+		"editor.defaultFormatter": "biomejs.biome"
+	},
+	"[astro]": {
+		"editor.formatOnSave": true,
+		"editor.defaultFormatter": "astro-build.astro-vscode"
+	}
+}
