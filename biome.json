@@ -28,14 +28,19 @@
   },
   "javascript": {
     "formatter": {
-      "quoteStyle": "single",
-      "indentStyle": "tab"
+      "indentStyle": "tab",
+      "quoteStyle": "single"
     }
   },
   "css": {
     "formatter": {
       "indentStyle": "tab",
       "quoteStyle": "single"
+    }
+  },
+  "json": {
+    "formatter": {
+      "indentStyle": "tab"
     }
   }
 }
