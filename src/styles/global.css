@@ -32,7 +32,7 @@ html {
 html.dark {
 	--accent: #979eed;
 	--accent-dark: #7984f5;
-	--background-color: #121212;
+	--background-color: #3f3f3f;
 	--text-color: #e0e0e0;
 	--heading-color: #aaaaaa;
 	--code-bg: rgba(var(--gray), 0.3);
