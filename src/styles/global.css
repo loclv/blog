@@ -30,7 +30,7 @@ html {
 
 /* Dark theme styles */
 html.dark {
-	--accent: #5865f2;
+	--accent: #979eed;
 	--accent-dark: #7984f5;
 	--background-color: #121212;
 	--text-color: #e0e0e0;
