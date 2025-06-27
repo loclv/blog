@@ -1,22 +1,64 @@
 ---
-// ThemeToggle component: toggles between light & dark themes using UnoCSS
+// ThemeToggle component: toggles between light & dark themes without UnoCSS
 ---
 
 <button
   id="theme-toggle"
   aria-label="Toggle theme"
-  class="text-2xl leading-none p-2 hover:bg-gray-200 dark:hover:bg-gray-700 rounded-lg transition-colors"
+  class="theme-toggle"
 >
-  <span class="block dark:hidden">🌙</span>
-  <span class="hidden dark:block">☀️</span>
+  <span class="theme-toggle-icon theme-toggle-icon--moon">🌙</span>
+  <span class="theme-toggle-icon theme-toggle-icon--sun">☀️</span>
 </button>
 
+<style>
+  .theme-toggle {
+    font-size: 1.5rem;
+    line-height: 1;
+    padding: 0.5rem;
+    border: none;
+    background: none;
+    cursor: pointer;
+    border-radius: 0.5rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .theme-toggle:hover {
+    background-color: rgba(var(--gray-light), 0.5);
+  }
+  
+  .theme-toggle-icon {
+    display: block;
+  }
+  
+  .theme-toggle-icon--sun {
+    display: none;
+  }
+  
+  html.dark .theme-toggle:hover {
+    background-color: rgba(var(--gray-dark), 0.3);
+  }
+  
+  html.dark .theme-toggle-icon--moon {
+    display: none;
+  }
+  
+  html.dark .theme-toggle-icon--sun {
+    display: block;
+  }
+</style>
+
 <script>
+  // Initialize theme from localStorage
   const html = document.documentElement;
   const stored = localStorage.getItem("theme");
-  if (stored === "dark") {
+  
+  // Check for stored preference or system preference
+  if (stored === "dark" || (!stored && window.matchMedia("(prefers-color-scheme: dark)").matches)) {
     html.classList.add("dark");
   }
+  
+  // Toggle theme when button is clicked
   document.getElementById("theme-toggle")?.addEventListener("click", () => {
     const isDark = html.classList.toggle("dark");
     localStorage.setItem("theme", isDark ? "dark" : "light");
