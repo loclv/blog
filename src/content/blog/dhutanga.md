@@ -1,11 +1,11 @@
 ---
-title: 'The 13 Dhutanga Practices: Ancient Buddhist Ascetic Disciplines'
-description: 'An exploration of the thirteen Dhutanga practices (known in Vietnamese as 13 hạnh Đầu Đà), the voluntary ascetic disciplines followed by dedicated practitioners in the Theravada Buddhist tradition to cultivate renunciation and spiritual development.'
-pubDate: 'May 13 2025'
-heroImage: '/pexels-elina-sazonova-1850535-medium.jpg'
+title: "The 13 Dhutanga Practices: Ancient Buddhist Ascetic Disciplines"
+description: "An exploration of the thirteen Dhutanga practices (known in Vietnamese as 13 hạnh Đầu Đà), the voluntary ascetic disciplines followed by dedicated practitioners in the Theravada Buddhist tradition to cultivate renunciation and spiritual development."
+pubDate: "May 13 2025"
+heroImage: "/pexels-elina-sazonova-1850535-medium.jpg"
 ---
 
-In the serene world of Theravada Buddhism, there exists a set of voluntary ascetic practices known as the Dhutanga (Pali: *dhutāṅga*). These thirteen practices, known in Vietnamese as *13 hạnh Đầu Đà*, represent the pinnacle of renunciation and spiritual discipline. They are not required of all monastics but are undertaken by those seeking deeper detachment from worldly comforts and stronger commitment to the spiritual path.
+In the serene world of Theravada Buddhism, there exists a set of voluntary ascetic practices known as the Dhutanga (Pali: _dhutāṅga_). These thirteen practices, known in Vietnamese as _13 hạnh Đầu Đà_, represent the pinnacle of renunciation and spiritual discipline. They are not required of all monastics but are undertaken by those seeking deeper detachment from worldly comforts and stronger commitment to the spiritual path.
 
 ## Origins and Purpose
 
@@ -18,6 +18,7 @@ In the Vietnamese Theravada tradition, these practices are highly respected and 
 ### Clothing-Related Practices
 
 1. **Paṃsukūlika** (Wearing robes made from discarded cloth)
+
    - Practitioners collect discarded fabric, clean it, sew it together, and dye it to create their robes. This practice promotes contentment with whatever is available and reduces attachment to fine clothing.
 
 2. **Tecīvarika** (Possessing only three robes)
@@ -26,12 +27,15 @@ In the Vietnamese Theravada tradition, these practices are highly respected and 
 ### Food-Related Practices
 
 3. **Piṇḍapātika** (Collecting alms food)
+
    - Monks and nuns collect their daily food by walking silently with their alms bowl, accepting whatever is offered without preference. This cultivates humility, gratitude, and non-attachment to taste.
 
 4. **Sapadānacārika** (Collecting alms without skipping houses)
+
    - Walking in a straight line without skipping houses when collecting alms, regardless of whether the homes appear wealthy or poor. This practice develops equanimity and non-discrimination.
 
 5. **Ekāsanika** (Eating only one meal a day)
+
    - Taking all food for the day in a single sitting before noon. This practice reduces indulgence in food and simplifies the day, allowing more time for meditation and study.
 
 6. **Pattapiṇḍika** (Eating only from one's alms bowl)
@@ -40,21 +44,27 @@ In the Vietnamese Theravada tradition, these practices are highly respected and 
 ### Dwelling-Related Practices
 
 7. **Khalupacchābhattika** (Not accepting food after the meal)
+
    - Refusing any food offered after the main meal of the day. This practice strengthens determination and reduces craving for snacks or second helpings.
 
 8. **Āraññika** (Living in the forest)
+
    - Residing in natural settings away from villages and towns. This fosters solitude, simplicity, and deeper communion with nature, supporting meditation practice.
 
 9. **Rukkhamūlika** (Dwelling at the foot of a tree)
+
    - Using the base of a tree as one's primary dwelling place. This practice represents the ultimate simplicity in housing and connects the practitioner to the Buddha's own experience of enlightenment under the Bodhi tree.
 
 10. **Abbhokāsika** (Living in the open air)
+
     - Having no roof except the sky. This extreme practice develops resilience to changing weather conditions and deepens non-attachment to physical comfort.
 
 11. **Sosānika** (Dwelling in a charnel ground)
+
     - Living in or near cremation grounds or cemeteries. This powerful practice confronts practitioners with mortality, impermanence, and the reality of death, reducing fear and attachment to the body.
 
 12. **Yathāsanthatika** (Being content with any dwelling)
+
     - Accepting whatever accommodation is assigned without complaint or preference. This cultivates profound contentment and adaptability.
 
 13. **Nesajjika** (The sitter's practice)

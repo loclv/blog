@@ -1,8 +1,8 @@
 ---
-title: 'Thầy Minh Tuệ: A Portrait'
-description: 'Exploring the life of Thầy Minh Tuệ, a Vietnamese spiritual leader and teacher who has dedicated his life to the practice of Buddhism. He is known for his wisdom, compassion, and dedication to his faith.'
-pubDate: 'May 05 2025'
-heroImage: '/thay-minh-tue-by-minh-y-2025-02-23.jpg'
+title: "Thầy Minh Tuệ: A Portrait"
+description: "Exploring the life of Thầy Minh Tuệ, a Vietnamese spiritual leader and teacher who has dedicated his life to the practice of Buddhism. He is known for his wisdom, compassion, and dedication to his faith."
+pubDate: "May 05 2025"
+heroImage: "/thay-minh-tue-by-minh-y-2025-02-23.jpg"
 ---
 
 # Thầy Minh Tuệ: A Portrait
@@ -21,8 +21,7 @@ The original of Vietnamese post at the last of this post.
 
 ## Introduce Thầy Minh Tuệ
 
-
-From Mac Van Trang's Facebook post, *words recorded from Thầy Minh Tuệ by Mạc Văn Trang*:
+From Mac Van Trang's Facebook post, _words recorded from Thầy Minh Tuệ by Mạc Văn Trang_:
 
 ---
 
@@ -36,7 +35,7 @@ For I am not yet worthy, lest I dishonor
 the noble lineage of the Blessed One.
 ```
 
-(*) Thích is a Vietnamese surname,
+(\*) Thích is a Vietnamese surname,
 it means "Śākyas" - Buddha's clan -
 the founder of Buddhism.
 
@@ -47,7 +46,7 @@ I am not a teacher, not a monk.
 Please, do not bow to me, bow to the Triple Gem(*)
 ```
 
-(*) The Triple Gem is the Buddha, Dharma, and Sangha.
+(\*) The Triple Gem is the Buddha, Dharma, and Sangha.
 
 ```text
 The robe I wear is sewn from discarded cloth,
@@ -57,12 +56,12 @@ The saffron robe is the color of ripe rice fields(*)
 worn by those who have attained Arahantship(**)
 ```
 
-(*) The color of ripe rice fields is the color of
+(\*) The color of ripe rice fields is the color of
 successful.
 
 ---
 
-(**) Arahantship (also spelled Arhatship) is a term
+(\*\*) Arahantship (also spelled Arhatship) is a term
 in Buddhism referring to the state of having attained
 full enlightenment, as understood in the Theravāda
 tradition. An Arahant (or Arhat) is someone who has:
@@ -156,7 +155,7 @@ and what I do not yet understand.
 I simply echo the Buddha’s words in simplicity.
 ```
 
-(*) Buddha’s teachings are the simple meaning of Dharma.
+(\*) Buddha’s teachings are the simple meaning of Dharma.
 
 ```text
 I have only one idol—The Buddha.
@@ -253,15 +252,15 @@ until death.
 ```
 
 **April 29, 2025**
-*Words recorded by Mạc Văn Trang*
+_Words recorded by Mạc Văn Trang_
 
 ---
 
 From Mac Van Trang's Facebook post's last word:
 
->Oh, Minh Tuệ! Minh Tuệ!
->Only Minh Tuệ…
->has endured until this very day!
+> Oh, Minh Tuệ! Minh Tuệ!
+> Only Minh Tuệ…
+> has endured until this very day!
 
 ## The original Vietnamese post
 
@@ -283,7 +282,7 @@ Người tu mặc áo nâu màu của đất
 Áo vàng là màu cánh đồng lúa chín
 của các vị tu đắc quả Alahán.
 
-Con mang lõi nồi cơm điện 
+Con mang lõi nồi cơm điện
 để khác bình bát của các sư ở chùa
 Con chưa đạt tới cảnh giới ấy
 nên tất cả làm sao không lẫn với các sư.
@@ -299,7 +298,7 @@ Con đi khắp nơi nơi để xúc chạm với đời
 Thử thách Tham Sân Si Mạn Nghi Ngã chấp...
 Trải nghiệm giữa chợ đời để thử thách chân tu.
 
-Mới hơn 6 năm con thực hành đi bộ 
+Mới hơn 6 năm con thực hành đi bộ
 Bốn lần dọc, dài theo đất nước.
 Còn ba tỉnh con chưa đi hết,
 ước muốn bước chân trần trên khắp nẻo quê hương.
@@ -416,7 +415,7 @@ Chỉ có Minh Tuệ...
 mới sống còn cho đến hôm nay!
 
 29/4/2025
-Mạc Văn Trang 
+Mạc Văn Trang
 ghi lời Minh Tuệ
 ```
 
