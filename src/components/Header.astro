@@ -6,13 +6,14 @@ import ThemeToggle from "./ThemeToggle.astro";
 
 <header>
   <nav>
-    <h2><a href="/">{SITE_TITLE}</a></h2>
+    <h2 class="site-title"><a href="/">{SITE_TITLE}</a></h2>
     <div class="internal-links">
       <HeaderLink href="/">Home</HeaderLink>
       <HeaderLink href="/blog">Blog</HeaderLink>
       <HeaderLink href="/about">About</HeaderLink>
     </div>
-    <div class="social-links">
+
+    <div class="right-menu">
       <a href="https://github.com/withastro/astro" target="_blank">
         <span class="sr-only">Go to Astro's GitHub repo</span>
         <svg viewBox="0 0 16 16" aria-hidden="true" width="32" height="32"
@@ -58,12 +59,18 @@ import ThemeToggle from "./ThemeToggle.astro";
     text-decoration: none;
     border-bottom-color: var(--accent);
   }
-  .social-links,
-  .social-links a {
+
+  .right-menu,
+  .right-menu a {
     display: flex;
   }
+
   @media (max-width: 720px) {
-    .social-links {
+    /* .right-menu {
+      display: none;
+    } */
+
+    .site-title {
       display: none;
     }
   }
